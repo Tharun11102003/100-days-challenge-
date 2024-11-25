@@ -5,4 +5,6 @@ Table of Contents
 
 Day 1: Age-Based Ticket Pricing System
 
+Day 2: Palindrome Check AND Anagrams Check
+
 ... (add more days as you progress)
