@@ -7,4 +7,6 @@ Day 1: Age-Based Ticket Pricing System
 
 Day 2: Palindrome Check AND Anagrams Check
 
+Day 3: Sum Of Numbers AND Cumulative Sum 
+
 ... (add more days as you progress)
