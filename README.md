@@ -9,4 +9,6 @@ Day 2: Palindrome Check AND Anagrams Check
 
 Day 3: Sum Of Numbers AND Cumulative Sum 
 
+Day 4: FizzBuzz Task
+
 ... (add more days as you progress)
