@@ -11,4 +11,6 @@ Day 3: Sum Of Numbers AND Cumulative Sum
 
 Day 4: FizzBuzz Task
 
+Day 5: Temperature Converter
+
 ... (add more days as you progress)
