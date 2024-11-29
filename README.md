@@ -13,4 +13,6 @@ Day 4: FizzBuzz Task
 
 Day 5: Temperature Converter
 
+Day 6: Simple banking statement 
+
 ... (add more days as you progress)
