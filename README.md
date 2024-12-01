@@ -17,4 +17,6 @@ Day 6: Simple banking statement
 
 Day 7: BMI Calculator
 
+Day 8: Leap year check
+
 ... (add more days as you progress)
