@@ -15,4 +15,6 @@ Day 5: Temperature Converter
 
 Day 6: Simple banking statement 
 
+Day 7: BMI Calculator
+
 ... (add more days as you progress)
