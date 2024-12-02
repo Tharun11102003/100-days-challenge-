@@ -19,4 +19,6 @@ Day 7: BMI Calculator
 
 Day 8: Leap year check
 
+Day 9: 1.vowels and consonants count
+
 ... (add more days as you progress)
