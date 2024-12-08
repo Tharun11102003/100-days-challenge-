@@ -19,6 +19,16 @@ Day 7: BMI Calculator
 
 Day 8: Leap year check
 
-Day 9: 1.vowels and consonants count
+Day 9: vowels and consonants count
+
+Day 10: Find the Majority Element
+
+Day 11: Sort a List Without Using the Sort Method
+
+Day 12: Implement a Linked List
+
+Day 13: Implement a Number Guessing Game
+
+Day 9: 1.Armstrong Number Checke
 
 ... (add more days as you progress)
