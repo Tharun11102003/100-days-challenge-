@@ -29,8 +29,10 @@ Day 12: Implement a Linked List
 
 Day 13: Implement a Number Guessing Game
 
-Day 14: 1.Armstrong Number Checke
+Day 14: Armstrong Number Checke
 
-Day 15: 1.Simple Calculator
+Day 15: Simple Calculator
+
+Day 16: Multiplication Table Generator
 
 ... (add more days as you progress)
