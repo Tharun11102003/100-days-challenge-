@@ -29,6 +29,8 @@ Day 12: Implement a Linked List
 
 Day 13: Implement a Number Guessing Game
 
-Day 9: 1.Armstrong Number Checke
+Day 14: 1.Armstrong Number Checke
+
+Day 15: 1.Simple Calculator
 
 ... (add more days as you progress)
