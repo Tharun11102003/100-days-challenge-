@@ -35,4 +35,6 @@ Day 15: Simple Calculator
 
 Day 16: Multiplication Table Generator
 
+Day 17: Prime Factorization Tool
+
 ... (add more days as you progress)
