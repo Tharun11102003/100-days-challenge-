@@ -37,4 +37,6 @@ Day 16: Multiplication Table Generator
 
 Day 17: Prime Factorization Tool
 
+Day 18: Calculate the factorial of a number:
+
 ... (add more days as you progress)
