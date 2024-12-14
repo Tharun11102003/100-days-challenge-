@@ -43,4 +43,6 @@ Day 19: Binary to Decimal Converte
 
 Day 20: Check for a Pythagorean Triplet
 
+Day 21: Find the Largest Number in a List
+
 ... (add more days as you progress)
