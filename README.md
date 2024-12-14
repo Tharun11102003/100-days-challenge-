@@ -41,4 +41,6 @@ Day 18: Calculate the factorial of a number
 
 Day 19: Binary to Decimal Converte
 
+Day 20: Check for a Pythagorean Triplet
+
 ... (add more days as you progress)
