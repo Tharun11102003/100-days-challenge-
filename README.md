@@ -45,4 +45,6 @@ Day 20: Check for a Pythagorean Triplet
 
 Day 21: Find the Largest Number in a List
 
+Day 22: Merge Two Sorted Lists
+
 ... (add more days as you progress)
