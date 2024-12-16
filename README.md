@@ -47,4 +47,6 @@ Day 21: Find the Largest Number in a List
 
 Day 22: Merge Two Sorted Lists
 
+Day 23: Find the Missing Number
+
 ... (add more days as you progress)
