@@ -49,4 +49,6 @@ Day 22: Merge Two Sorted Lists
 
 Day 23: Find the Missing Number
 
+Day 24: Find the Smallest Number in a List 
+
 ... (add more days as you progress)
