@@ -51,4 +51,10 @@ Day 23: Find the Missing Number
 
 Day 24: Find the Smallest Number in a List 
 
+Day 25: Remove Duplicates from a List
+
 ... (add more days as you progress)
+
+
+
+
