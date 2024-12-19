@@ -53,6 +53,8 @@ Day 24: Find the Smallest Number in a List
 
 Day 25: Remove Duplicates from a List
 
+Day 26: Find the Intersection of Two Lists
+
 ... (add more days as you progress)
 
 
