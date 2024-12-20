@@ -55,6 +55,8 @@ Day 25: Remove Duplicates from a List
 
 Day 26: Find the Intersection of Two Lists
 
+Day 27: Simple Word Counter
+
 ... (add more days as you progress)
 
 
