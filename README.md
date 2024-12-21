@@ -57,6 +57,8 @@ Day 26: Find the Intersection of Two Lists
 
 Day 27: Simple Word Counter
 
+Day 28: Swap Two Elements in a List 
+
 ... (add more days as you progress)
 
 
