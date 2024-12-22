@@ -59,6 +59,8 @@ Day 27: Simple Word Counter
 
 Day 28: Swap Two Elements in a List 
 
+Day 29: Find All Duplicates in an Array
+
 ... (add more days as you progress)
 
 
