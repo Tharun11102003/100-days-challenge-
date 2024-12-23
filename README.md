@@ -61,6 +61,8 @@ Day 28: Swap Two Elements in a List
 
 Day 29: Find All Duplicates in an Array
 
+Day 30: Find Two Numbers That Add Up to a Target
+
 ... (add more days as you progress)
 
 
