@@ -67,6 +67,8 @@ Day 31: Check If a Number Is an Abundant Number
 
 Day 32: Check If a Number Is a Harshad Number 
 
+Day 33: Check If Numbers Within a Range Are Prime
+
 ... (add more days as you progress)
 
 
