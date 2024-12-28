@@ -69,6 +69,8 @@ Day 32: Check If a Number Is a Harshad Number
 
 Day 33: Check If Numbers Within a Range Are Prime
 
+Day 34: Count Words in a String
+
 ... (add more days as you progress)
 
 
