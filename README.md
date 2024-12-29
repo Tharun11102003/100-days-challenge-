@@ -71,6 +71,8 @@ Day 33: Check If Numbers Within a Range Are Prime
 
 Day 34: Count Words in a String
 
+Day 35: Binary Search Algorithm
+
 ... (add more days as you progress)
 
 
