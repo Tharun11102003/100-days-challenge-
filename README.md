@@ -73,6 +73,8 @@ Day 34: Count Words in a String
 
 Day 35: Binary Search Algorithm
 
+Day 36: Find the First Unique Character in a String
+
 ... (add more days as you progress)
 
 
