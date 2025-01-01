@@ -75,6 +75,10 @@ Day 35: Binary Search Algorithm
 
 Day 36: Find the First Unique Character in a String
 
+Day 37: Find the Greatest Common Divisor (GCD) of Two Numbers
+
+Day 38: Remove a Value from a List
+
 ... (add more days as you progress)
 
 
