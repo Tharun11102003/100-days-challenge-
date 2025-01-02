@@ -79,6 +79,8 @@ Day 37: Find the Greatest Common Divisor (GCD) of Two Numbers
 
 Day 38: Remove a Value from a List
 
+Day 39: Rotate a List Using Its Reversed Elements
+
 ... (add more days as you progress)
 
 
