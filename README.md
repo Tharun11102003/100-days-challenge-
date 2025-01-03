@@ -81,6 +81,8 @@ Day 38: Remove a Value from a List
 
 Day 39: Rotate a List Using Its Reversed Elements
 
+Day 40: Best Time to Buy and Sell Stock 
+
 ... (add more days as you progress)
 
 
