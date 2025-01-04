@@ -83,6 +83,8 @@ Day 39: Rotate a List Using Its Reversed Elements
 
 Day 40: Best Time to Buy and Sell Stock 
 
+Day 41: Minimum Number of Jumps to Reach the End 
+
 ... (add more days as you progress)
 
 
