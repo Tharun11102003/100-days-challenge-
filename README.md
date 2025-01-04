@@ -85,6 +85,8 @@ Day 40: Best Time to Buy and Sell Stock
 
 Day 41: Minimum Number of Jumps to Reach the End 
 
+Day 42: Insert, Delete, and Get a Random Element
+
 ... (add more days as you progress)
 
 
