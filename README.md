@@ -87,6 +87,8 @@ Day 41: Minimum Number of Jumps to Reach the End
 
 Day 42: Insert, Delete, and Get a Random Element
 
+Day 43: Find the k-th Factor of n
+
 ... (add more days as you progress)
 
 
