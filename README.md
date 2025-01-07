@@ -89,6 +89,8 @@ Day 42: Insert, Delete, and Get a Random Element
 
 Day 43: Find the k-th Factor of n
 
+Day 44: Merge Two Sorted Lists
+
 ... (add more days as you progress)
 
 
