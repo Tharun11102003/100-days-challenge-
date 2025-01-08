@@ -91,6 +91,8 @@ Day 43: Find the k-th Factor of n
 
 Day 44: Merge Two Sorted Lists
 
+Day 45:  Product of list except the self.
+
 ... (add more days as you progress)
 
 
