@@ -93,6 +93,8 @@ Day 44: Merge Two Sorted Lists
 
 Day 45:  Product of list except the self.
 
+Day 46:  Identify prime numbers in a given range.
+
 ... (add more days as you progress)
 
 
