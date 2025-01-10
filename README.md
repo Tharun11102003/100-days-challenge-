@@ -95,6 +95,8 @@ Day 45:  Product of list except the self.
 
 Day 46:  Identify prime numbers in a given range.
 
+Day 47:  Calculate the H-index.
+
 ... (add more days as you progress)
 
 
