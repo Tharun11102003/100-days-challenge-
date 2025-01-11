@@ -97,6 +97,8 @@ Day 46:  Identify prime numbers in a given range.
 
 Day 47:  Calculate the H-index.
 
+Day 48:  Generate a Fibonacci Sequence.
+
 ... (add more days as you progress)
 
 
