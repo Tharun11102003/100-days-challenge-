@@ -99,6 +99,8 @@ Day 47:  Calculate the H-index.
 
 Day 48:  Generate a Fibonacci Sequence.
 
+Day 49:  Convert Roman Numeral to Integer
+
 ... (add more days as you progress)
 
 
