@@ -101,6 +101,8 @@ Day 48:  Generate a Fibonacci Sequence.
 
 Day 49:  Convert Roman Numeral to Integer
 
+Day 50:  Check if a Parentheses String is Balanced
+
 ... (add more days as you progress)
 
 
