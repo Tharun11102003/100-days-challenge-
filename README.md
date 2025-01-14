@@ -103,6 +103,8 @@ Day 49:  Convert Roman Numeral to Integer
 
 Day 50:  Check if a Parentheses String is Balanced
 
+Day 51:  Calculate Maximum Length of a Palindrome from Characters in a String
+
 ... (add more days as you progress)
 
 
