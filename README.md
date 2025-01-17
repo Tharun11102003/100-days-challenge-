@@ -109,6 +109,8 @@ Day 52:  Find the Prefix Common List of Two Lists
 
 Day 53:  Counting Words With a Given Prefix
 
+Day 54:  Bitwise XOR of All Pairing
+
 ... (add more days as you progress)
 
 
