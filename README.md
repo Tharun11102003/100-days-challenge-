@@ -111,6 +111,8 @@ Day 53:  Counting Words With a Given Prefix
 
 Day 54:  Bitwise XOR of All Pairing
 
+Day 55:  Removing Duplicates in a Sorted List
+
 ... (add more days as you progress)
 
 
