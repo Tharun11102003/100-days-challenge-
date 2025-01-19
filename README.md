@@ -113,6 +113,8 @@ Day 54:  Bitwise XOR of All Pairing
 
 Day 55:  Removing Duplicates in a Sorted List
 
+Day 56:  Finding the Minimum Cost Path in a Grid
+
 ... (add more days as you progress)
 
 
