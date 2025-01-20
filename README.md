@@ -115,6 +115,8 @@ Day 55:  Removing Duplicates in a Sorted List
 
 Day 56:  Finding the Minimum Cost Path in a Grid
 
+Day 57:  Calculating the Amount of Trapped Rainwater in a Grid
+
 ... (add more days as you progress)
 
 
