@@ -117,6 +117,8 @@ Day 56:  Finding the Minimum Cost Path in a Grid
 
 Day 57:  Calculating the Amount of Trapped Rainwater in a Grid
 
+Day 58:  First Completely Painted Row or Column
+
 ... (add more days as you progress)
 
 
