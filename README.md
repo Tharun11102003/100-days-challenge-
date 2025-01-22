@@ -119,6 +119,8 @@ Day 57:  Calculating the Amount of Trapped Rainwater in a Grid
 
 Day 58:  First Completely Painted Row or Column
 
+Day 59:  Grid Game
+
 ... (add more days as you progress)
 
 
