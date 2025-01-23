@@ -121,6 +121,8 @@ Day 58:  First Completely Painted Row or Column
 
 Day 59:  Grid Game
 
+Day 60:  Map of Highest Peak
+
 ... (add more days as you progress)
 
 
