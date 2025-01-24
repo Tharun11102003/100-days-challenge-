@@ -123,6 +123,8 @@ Day 59:  Grid Game
 
 Day 60:  Map of Highest Peak
 
+Day 61:  Count Servers that Communicate
+
 ... (add more days as you progress)
 
 
