@@ -125,6 +125,8 @@ Day 60:  Map of Highest Peak
 
 Day 61:  Count Servers that Communicate
 
+Day 62:  Find Eventual Safe States
+
 ... (add more days as you progress)
 
 
