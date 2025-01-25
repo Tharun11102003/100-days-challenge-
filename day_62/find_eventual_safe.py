@@ -63,7 +63,7 @@ class Solution:
         
         return safe_nodes
 
-# Example usage:
+
 graph_input = [[1,2],[2,3],[5],[0],[5],[],[]]
 solution = Solution()
 print(solution.eventualSafeNodes(graph_input))
