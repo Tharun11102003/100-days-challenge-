@@ -133,6 +133,8 @@ Day 64:  Maximum Employees to Be Invited to a Meeting
 
 Day 65:  Course Schedule IV
 
+Day 66:  Maximum Number of Fish in a Grid
+
 ... (add more days as you progress)
 
 
