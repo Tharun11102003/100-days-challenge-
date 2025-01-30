@@ -135,6 +135,9 @@ Day 65:  Course Schedule IV
 
 Day 66:  Maximum Number of Fish in a Grid
 
+Day 67:  Redundant Connection
+
+
 ... (add more days as you progress)
 
 
