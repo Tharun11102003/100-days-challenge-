@@ -137,6 +137,8 @@ Day 66:  Maximum Number of Fish in a Grid
 
 Day 67:  Redundant Connection
 
+Day 68:  Divide Nodes Into the Maximum Number of Groups
+
 
 ... (add more days as you progress)
 
