@@ -139,6 +139,8 @@ Day 67:  Redundant Connection
 
 Day 68:  Divide Nodes Into the Maximum Number of Groups
 
+Day 69:  Making A Large Island
+
 
 ... (add more days as you progress)
 
