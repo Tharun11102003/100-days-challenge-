@@ -141,6 +141,8 @@ Day 68:  Divide Nodes Into the Maximum Number of Groups
 
 Day 69:  Making A Large Island
 
+Day 70:  Check if List is Special
+
 
 ... (add more days as you progress)
 
