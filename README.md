@@ -143,6 +143,8 @@ Day 69:  Making A Large Island
 
 Day 70:  Check if List is Special
 
+Day 71:  Check if Array Is Sorted and Rotated
+
 
 ... (add more days as you progress)
 
