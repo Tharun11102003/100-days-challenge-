@@ -145,6 +145,7 @@ Day 70:  Check if List is Special
 
 Day 71:  Check if Array Is Sorted and Rotated
 
+Day 72:  Find the Length of the Longest Strictly Increasing or Strictly Decreasing Subarray
 
 ... (add more days as you progress)
 
