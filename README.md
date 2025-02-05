@@ -147,6 +147,8 @@ Day 71:  Check if Array Is Sorted and Rotated
 
 Day 72:  Find the Length of the Longest Strictly Increasing or Strictly Decreasing Subarray
 
+Day 73:  Maximum Ascending Subarray Sum
+
 ... (add more days as you progress)
 
 
