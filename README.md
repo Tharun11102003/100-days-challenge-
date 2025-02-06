@@ -149,6 +149,8 @@ Day 72:  Find the Length of the Longest Strictly Increasing or Strictly Decreasi
 
 Day 73:  Maximum Ascending Subarray Sum
 
+Day 74:  Check if One String Swap Can Make Strings Equal
+
 ... (add more days as you progress)
 
 
