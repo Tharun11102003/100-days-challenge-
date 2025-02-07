@@ -151,6 +151,8 @@ Day 73:  Maximum Ascending Subarray Sum
 
 Day 74:  Check if One String Swap Can Make Strings Equal
 
+Day 75:  Tuple with Same Product
+
 ... (add more days as you progress)
 
 
