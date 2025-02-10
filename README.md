@@ -157,6 +157,8 @@ Day 76:  Unique Balance Frequency Tracker
 
 Day 77: Design a Number Container System
 
+Day 78: Count Number of Bad Pairs
+
 ... (add more days as you progress)
 
 
