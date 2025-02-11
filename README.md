@@ -159,6 +159,8 @@ Day 77: Design a Number Container System
 
 Day 78: Count Number of Bad Pairs
 
+Day 79: Clear Digits
+
 ... (add more days as you progress)
 
 
