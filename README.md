@@ -161,6 +161,8 @@ Day 78: Count Number of Bad Pairs
 
 Day 79: Clear Digits
 
+Day 80: Remove All Occurrences of a Substring
+
 ... (add more days as you progress)
 
 
