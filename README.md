@@ -163,6 +163,8 @@ Day 79: Clear Digits
 
 Day 80: Remove All Occurrences of a Substring
 
+Day 81: Max Sum of a Pair With Equal Sum of Digits
+
 ... (add more days as you progress)
 
 
