@@ -167,6 +167,8 @@ Day 81: Max Sum of a Pair With Equal Sum of Digits
 
 Day 82: Minimum Operations to Exceed Threshold Value II
 
+Day 83: Product of the Last K Numbers
+
 ... (add more days as you progress)
 
 
