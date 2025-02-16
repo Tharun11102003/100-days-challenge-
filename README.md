@@ -169,6 +169,8 @@ Day 82: Minimum Operations to Exceed Threshold Value II
 
 Day 83: Product of the Last K Numbers
 
+Day 84: Find the Punishment Number of an Integer
+
 ... (add more days as you progress)
 
 
