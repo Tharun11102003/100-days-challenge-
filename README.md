@@ -171,6 +171,8 @@ Day 83: Product of the Last K Numbers
 
 Day 84: Find the Punishment Number of an Integer
 
+Day 85: Construct the Lexicographically Largest Valid Sequence
+
 ... (add more days as you progress)
 
 
