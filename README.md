@@ -173,6 +173,8 @@ Day 84: Find the Punishment Number of an Integer
 
 Day 85: Construct the Lexicographically Largest Valid Sequence
 
+Day 86: Letter Tile Possibilities
+
 ... (add more days as you progress)
 
 
