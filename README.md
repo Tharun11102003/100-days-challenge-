@@ -175,6 +175,8 @@ Day 85: Construct the Lexicographically Largest Valid Sequence
 
 Day 86: Letter Tile Possibilities
 
+Day 87: Construct Smallest Number From DI String
+
 ... (add more days as you progress)
 
 
