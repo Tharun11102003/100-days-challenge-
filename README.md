@@ -177,6 +177,8 @@ Day 86: Letter Tile Possibilities
 
 Day 87: Construct Smallest Number From DI String
 
+Day 88: The k-th Lexicographical String of All Happy Strings of Length n
+
 ... (add more days as you progress)
 
 
