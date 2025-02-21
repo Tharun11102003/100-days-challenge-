@@ -179,6 +179,8 @@ Day 87: Construct Smallest Number From DI String
 
 Day 88: The k-th Lexicographical String of All Happy Strings of Length n
 
+Day 89: Find Unique Binary String
+
 ... (add more days as you progress)
 
 
