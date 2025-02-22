@@ -181,6 +181,8 @@ Day 88: The k-th Lexicographical String of All Happy Strings of Length n
 
 Day 89: Find Unique Binary String
 
+Day 90: Find Unique Paths in a Grid
+
 ... (add more days as you progress)
 
 
