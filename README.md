@@ -185,6 +185,8 @@ Day 90: Find Unique Paths in a Grid
 
 Day 91: Find the Highest Altitude
 
+Day 92: Successful Pairs of Spells and Potions
+
 ... (add more days as you progress)
 
 
