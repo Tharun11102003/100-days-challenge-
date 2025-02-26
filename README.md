@@ -187,6 +187,10 @@ Day 91: Find the Highest Altitude
 
 Day 92: Successful Pairs of Spells and Potions
 
+Day 93: String Compression
+
+Day 94: Number of Sub-arrays With Odd Sum
+
 ... (add more days as you progress)
 
 
