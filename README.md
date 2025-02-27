@@ -191,6 +191,8 @@ Day 93: String Compression
 
 Day 94: Number of Sub-arrays With Odd Sum
 
+Day 95: Maximum Absolute Sum of Any Subarray
+
 ... (add more days as you progress)
 
 
