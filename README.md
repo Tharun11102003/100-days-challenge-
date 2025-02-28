@@ -193,6 +193,8 @@ Day 94: Number of Sub-arrays With Odd Sum
 
 Day 95: Maximum Absolute Sum of Any Subarray
 
+Day 96: Length of Longest Fibonacci Subsequence
+
 ... (add more days as you progress)
 
 
