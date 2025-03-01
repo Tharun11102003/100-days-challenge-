@@ -195,6 +195,8 @@ Day 95: Maximum Absolute Sum of Any Subarray
 
 Day 96: Length of Longest Fibonacci Subsequence
 
+Day 97: Shortest Common Supersequence
+
 ... (add more days as you progress)
 
 
