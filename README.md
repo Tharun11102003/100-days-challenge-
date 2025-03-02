@@ -197,6 +197,8 @@ Day 96: Length of Longest Fibonacci Subsequence
 
 Day 97: Shortest Common Supersequence
 
+Day 98: Apply Operations to a List
+
 ... (add more days as you progress)
 
 
