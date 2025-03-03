@@ -199,6 +199,8 @@ Day 97: Shortest Common Supersequence
 
 Day 98: Apply Operations to a List
 
+Day 99: Merge Two 2D Arrays by Summing Values
+
 ... (add more days as you progress)
 
 
