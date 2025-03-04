@@ -201,8 +201,20 @@ Day 98: Apply Operations to a List
 
 Day 99: Merge Two 2D Arrays by Summing Values
 
-... (add more days as you progress)
+Day 100: Partition Array According to Given Pivot
 
+
+#========================================
+
+🎉🌟 Yay! I did it! I've completed my 100 Days Challenge! 🌟🎉
+
+Today marks the culmination of an incredible journey filled with learning, growth, and perseverance. Each day brought new challenges and opportunities, and I faced them head-on with determination and enthusiasm.
+
+This experience has been transformative, not just in terms of skills gained, but in the resilience and passion I've developed along the way. I'm so proud of myself for staying committed and achieving this milestone.
+
+Here's to celebrating every small victory and cherishing this significant achievement. May this be the first of many more accomplishments to come!
+
+✨ I'm ready to take on the world! ✨
 
 
 
